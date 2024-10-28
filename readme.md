@@ -8,6 +8,10 @@ run
 python combos.py
 ```
 
+## DEMO VIDEO
+
+youtube link: https://youtu.be/tR7dqTwg5Tc
+
 You will be prompted to enter a value for N and for R.
 
 ## Testing
